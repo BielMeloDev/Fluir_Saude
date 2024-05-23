@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-width: 320px;
+    max-width: 6144px;
+    background-color: #F1D7FF94;
+}
+
+
+#logo-text {
+    font-family: "Modak", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    color: #e6e6e6;
+    text-shadow: 2px 2px black;
+
+    padding: 0;
+}
+
+#logo-text a {
+    text-decoration: none;
+}
+
+.header-1 {
+    background-color: #CFA5B473;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    min-width: 320px;
+    max-width: 6144px;
+    top: 0;
+}
+
+.header-1 nav {
+    min-width: 320px;
+    max-width: 6144px;
+    margin: 10px;
+    display: flex;
+}
+
+.header-1 ul{
+
+}
+
+.header-1 li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.header-1 h1 a {
+    color: #FFFFFF;
+}
+
+.header-1 nav a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #e6e6e6;
+}
+
+#verde {
+    color: green;
+}
+
+#verde:hover {
+    background-color: rgb(76, 181, 19);
+    color: #ffffff;
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+#azul {  
+    color: blue;
+}
+
+#azul:hover {
+    background-color: rgb(17, 48, 223);
+    color: #ffffff;
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+#amarelo {
+    color: rgb(215, 218, 22);
+}
+
+#amarelo:hover {
+    background-color: rgb(208, 210, 54);
+    color: #ffffff;
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+#vermelho {
+    color: red;
+}
+
+#vermelho:hover {
+    background-color: rgb(179, 50, 43);
+    color: #ffffff;
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+#preto {
+    color: rgb(19, 19, 19);
+}
+
+#preto:hover {
+    background-color: rgb(20, 20, 20);
+    color: #f0f0f0;
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+
+.first-page-container {
+
+}
+.section-1 {
+
+}
+.section-praticas-integrativas {
+
+}
+.section-beneficios {
+
+}
+.section-praticas-utilizadas {
+
+}
+.verde {
+
+}
+.azul {
+
+}
+.amarela {
+
+}
+.vermelho {
+
+}
+.preto {
+
+}
