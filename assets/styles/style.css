@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Pacifico&display=swap');
 
 * {
     margin: 0;
@@ -134,8 +136,24 @@ body {
 
 }
 .section-1 {
-
+    color: #74428F  ;
 }
+
+.section-1 h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+    color: #74428F  ;
+}
+
+.section-1 h2 {
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #AD60D7;
+}
+
 .section-praticas-integrativas {
 
 }
