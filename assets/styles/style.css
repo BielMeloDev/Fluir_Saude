@@ -290,8 +290,8 @@ main {
     display: flex;
     flex-direction: column;
     margin: 20px;
-    color: #0b090c;
-    padding: 50px;
+    color: #202020;
+    padding: 30px;
 }
 
 .destaque {
