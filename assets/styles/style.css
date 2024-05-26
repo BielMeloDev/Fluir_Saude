@@ -291,6 +291,7 @@ main {
     flex-direction: column;
     margin: 20px;
     color: #0b090c;
+    padding: 50px;
 }
 
 .destaque {
