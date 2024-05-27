@@ -47,6 +47,7 @@ body {
     left: 0;
     position: fixed;
     z-index: 9;
+    box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);
 }
 
  .header-1 nav {
@@ -159,7 +160,7 @@ body {
     text-decoration: none;
     color: #FFF8FB;
     padding: 10px;
-    border-radius: 15px;
+    border-radius: 14px;
     background-color: #FFF8FB;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -190,11 +191,11 @@ body {
 }
 
 #amarelo {
-    color: rgb(215, 218, 22);
+    color: rgb(213, 207, 38);
 }
 
 #amarelo:hover {
-    background-color: rgb(208, 210, 54);
+    background-color: rgb(238, 233, 107);
     color: #FFF8FB;
     transition: 0.7s all;
     border-radius: 7px;
@@ -241,12 +242,12 @@ main {
     margin-left: 20px;
 }
 
-#main-title{
+#main-title h1{
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;  
 
-    color: #74428F  ;
+    color: #ba69e6  ;
     display: flex;
     justify-content: center;
     margin: 20px;
@@ -303,19 +304,25 @@ main {
 
 /* Cores */
 
-.container-cor h1 {
-    display: flex;
-    justify-content: center;
-}
-
 .container-cor {
-    padding: 10px;
+    padding: 50px;
     margin: 20px 40px 40px 40px;
     border-radius: 20px;
     display: center;
     justify-content: center;
     align-items: center;
 }
+.container-cor h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-cor p {
+    display: flex;
+    justify-content: center;
+}
+
+
 
 #container-verde {
     /* margin: 20px; */
@@ -346,9 +353,10 @@ div.video-cor > iframe {
     color: #fff;
 }
 #container-amarela {
-    background-color: yellow;
-    color: #fff;
+    background-color: rgb(169, 172, 43);
+    color: #f5f2f2;
 }
+
 #container-vermelho {
     background-color: red;
     color: #fff;
