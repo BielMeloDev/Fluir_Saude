@@ -161,7 +161,7 @@ body {
     color: #FFF8FB;
     padding: 10px;
     border-radius: 14px;
-    background-color: #FFF8FB;
+    /* background-color: #FFF8FB; */
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -169,7 +169,7 @@ body {
 }
 
 #verde {
-    color: green;
+    color: #000000;
 }
 
 #verde:hover {
@@ -180,7 +180,7 @@ body {
 }
 
 #azul {  
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 #azul:hover {
@@ -191,7 +191,7 @@ body {
 }
 
 #amarelo {
-    color: rgb(213, 207, 38);
+    color: rgb(0, 0, 0);
 }
 
 #amarelo:hover {
@@ -202,7 +202,7 @@ body {
 }
 
 #vermelho {
-    color: red;
+    color: rgb(0, 0, 0);
 }
 
 #vermelho:hover {
