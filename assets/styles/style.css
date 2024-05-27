@@ -320,15 +320,21 @@ main {
 .container-cor p {
     display: flex;
     justify-content: center;
+    padding: 5px;
 }
-
-
 
 #container-verde {
     /* margin: 20px; */
     background-color: green;
     color: #fff;
 }
+
+#esperanca {
+    width: 300px;
+    align-items: center;
+    margin-left: 50px;
+}
+
 
 div.video-cor {
     background-color: #643F76;
@@ -352,16 +358,47 @@ div.video-cor > iframe {
     background-color: rgb(55, 85, 149);
     color: #fff;
 }
+
+
+.personagens {
+    display: flex;
+    justify-content: space-around;
+    min-width: 100px;
+    max-width: 6000px;
+    flex-wrap: wrap;
+}
+
+#triste-left {
+    width: 300px;
+}
+
+#triste-rigth {
+    width: 300px;
+}
+
 #container-amarela {
     background-color: rgb(169, 172, 43);
     color: #f5f2f2;
+}
+
+#feliz {
+    width: 310px;
 }
 
 #container-vermelho {
     background-color: red;
     color: #fff;
 }
+
+#raiva {
+    width: 300px;
+}
+
 #container-preto {
     background-color: #202020;
     color: #fff;
+}
+
+#medo {
+    width: 300px;
 }
