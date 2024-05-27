@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth ;
-    scroll-margin-top: 340px;
+    scroll-margin-top: 135px;
 }
 
 body {
@@ -386,7 +386,7 @@ div.video-cor > iframe {
 }
 
 #container-vermelho {
-    background-color: red;
+    background-color: rgb(190, 46, 46);
     color: #fff;
 }
 
@@ -401,4 +401,25 @@ div.video-cor > iframe {
 
 #medo {
     width: 300px;
+}
+
+/* Resto da página */
+
+#integrantes {
+    display: flex;
+    justify-content: center;
+    color: #2a2e38;
+}
+
+/* Rodapé */
+footer {
+    background-color: #e9c2d0;
+    color: #202020;
+    padding: 20px 0;
+    text-align: center;
+    min-width: 320px;
+    max-width: 6144px;
+    width: 100%;
+    position: absolute;
+    bottom: 1;
 }
