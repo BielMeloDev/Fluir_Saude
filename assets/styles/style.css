@@ -13,7 +13,7 @@
 
 body {
     min-width: 320px;
-    max-width: 6144px;
+    max-width: 7000px;
     background-color: #F1D7FF94;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -41,7 +41,7 @@ body {
     background-color: #e9c2d0;
     padding: 5px;
     min-width: 320px;
-    max-width: 6500px;
+    max-width: 7000px;
     width: 100%;    
     top: 0;
     left: 0;
@@ -338,7 +338,7 @@ main {
 
 div.video-cor {
     background-color: #643F76;
-    margin: 0 0 30px 0;
+    margin: 0 0 50px 0;
     padding: 20px;
     padding-bottom: 56.5%;
     position: relative;
@@ -364,7 +364,7 @@ div.video-cor > iframe {
     display: flex;
     justify-content: space-around;
     min-width: 100px;
-    max-width: 6500px;
+    max-width: 7000px;
     flex-wrap: wrap;
 }
 
