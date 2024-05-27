@@ -195,8 +195,8 @@ body {
 }
 
 #amarelo:hover {
-    background-color: rgb(238, 233, 107);
-    color: #FFF8FB;
+    background-color: #FFEF00;
+    color: #202020;
     transition: 0.7s all;
     border-radius: 7px;
 }
@@ -377,8 +377,8 @@ div.video-cor > iframe {
 }
 
 #container-amarela {
-    background-color: rgb(169, 172, 43);
-    color: #f5f2f2;
+    background-color: #FFEF00;
+    color: #272727;
 }
 
 #feliz {
