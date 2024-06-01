@@ -332,6 +332,8 @@ main {
 }
 
 #esperanca {
+    min-width: 300px;
+    max-width: 1000px;
     width: 300px;
     align-items: center;
 }
@@ -339,7 +341,7 @@ main {
 
 div.video-cor {
     background-color: #643F76;
-    margin: 0 20px 30px 20px;
+    margin: 0 0 30px 0;
     padding: 20px;
     padding-bottom: 56.5%;
     position: relative;
@@ -351,11 +353,10 @@ div.video-cor {
 div.video-cor > iframe {
     border-radius: 5px;
     position: absolute;
-    top: 10%;
-    left: 8.68%;
-    right: 10%;
-    width: 80%;
-    height: 80%;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 #container-azul {
