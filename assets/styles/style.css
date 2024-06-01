@@ -96,6 +96,7 @@ body {
         transform: translateX(100%);
         transition: transform 0.3s ease-in;
         position: fixed;
+        z-index: -1px;
       }
     
       .nav-list li {
@@ -292,6 +293,7 @@ main {
     font-style: normal;
     font-size: 20px;
     display: flex;
+    justify-content: center ;
     flex-direction: column;
     margin: 20px;
     color: #202020;
@@ -412,7 +414,7 @@ div.video-cor > iframe {
 }
 
 /* Rodapé */
-/* footer {
+footer {
     background-color: #e9c2d0;
     color: #202020;
     padding: 20px 0;
@@ -422,4 +424,4 @@ div.video-cor > iframe {
     width: 100%;
     position: absolute;
     bottom: 1;
-} */
+}
