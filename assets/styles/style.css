@@ -313,6 +313,8 @@ main {
     display: center;
     justify-content: center;
     align-items: center;
+    min-width: 100px;
+    max-width: 7000px;
 }
 .container-cor h1 {
     display: flex;
@@ -332,8 +334,8 @@ main {
 }
 
 #esperanca {
-    min-width: 300px;
-    max-width: 1000px;
+    min-width: 100px;
+    max-width: 6144px;
     width: 300px;
     align-items: center;
 }
@@ -346,7 +348,7 @@ div.video-cor {
     padding-bottom: 56.5%;
     position: relative;
     margin-bottom: 100px;
-    min-width: 320px;
+    min-width: 50px;
     max-width: 6114px;
 }
 
@@ -356,6 +358,8 @@ div.video-cor > iframe {
     top: 5%;
     left: 5%;
     width: 90%;
+    min-width: 100px;
+    max-width: 7000px;
     height: 90%;
 }
 
@@ -375,11 +379,10 @@ div.video-cor > iframe {
 
 #triste-left {
     width: 300px;
+    min-width: 100px;
+    max-width: 7000px;
 }
 
-#triste-rigth {
-    width: 300px;
-}
 
 #container-amarela {
     background-color: #FFEF00;
@@ -387,7 +390,7 @@ div.video-cor > iframe {
 }
 
 #feliz {
-    width: 310px;
+    width: 240px;
 }
 
 #container-vermelho {
@@ -397,6 +400,8 @@ div.video-cor > iframe {
 
 #raiva {
     width: 300px;
+    min-width: 100px;
+    max-width: 7000px;
 }
 
 #container-preto {
@@ -406,6 +411,8 @@ div.video-cor > iframe {
 
 #medo {
     width: 300px;
+    min-width: 100px;
+    max-width: 7000px;
 }
 
 /* Resto da página */
@@ -422,7 +429,7 @@ footer {
     color: #202020;
     padding: 20px 0;
     text-align: center;
-    min-width: 350px;
+    min-width: 100px;
     max-width: 6144px;
     width: 100%;
     position: absolute;
