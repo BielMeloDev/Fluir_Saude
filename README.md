@@ -11,3 +11,9 @@ CSS3;
 JavaScript;
 
 Também foi utilizado o Figma, feito por uma equipe de design formado por Carol McDorwell e Maria Eugênia.
+
+-------------------------------------
+Link de acesso para o Website:
+https://fluir-saude.vercel.app/
+
+Esse site foi hospedado utilizando Vercel.
