@@ -10,7 +10,8 @@ HTML5;
 CSS3;
 JavaScript;
 
-Também foi utilizado o Figma, feito por uma equipe de design formado por Carol McDorwell e Maria Eugênia.
+Também foi utilizado o Figma, feito por uma equipe de design formado por Ana Carolina Santos e
+Maria Eugênia Silva.
 
 -------------------------------------
 Link de acesso para o Website:
