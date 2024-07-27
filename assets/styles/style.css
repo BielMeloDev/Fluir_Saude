@@ -61,6 +61,7 @@ body {
     min-width: 300px;
     max-width: 1000px;
     display: flex;
+    font-size: 15px;
 }
 
 .mobile-menu {
@@ -159,7 +160,7 @@ body {
 
 .nav-list a {
     text-decoration: none;
-    color: #FFF8FB;
+    /* color: #FFF8FB; */
     padding: 10px;
     border-radius: 14px;
     /* background-color: #FFF8FB; */
@@ -223,6 +224,19 @@ body {
     transition: 0.7s all;
     border-radius: 7px;
 }
+
+.nav_reg {
+    color: rgb(0, 0, 0);
+}
+
+.nav_reg:hover {
+    background-color: #FFF8FB;
+    color: rgb(19, 19, 19);
+    transition: 0.7s all;
+    border-radius: 7px;
+}
+
+
 
 #topo {
     text-decoration: none;
@@ -375,7 +389,7 @@ div.video-cor > iframe {
     width: 90%;
     min-width: 100px;
     max-width: 7000px;
-    height: 90%;
+    height: 80%;
 }
 
 #container-azul {
