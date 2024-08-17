@@ -444,7 +444,22 @@ div.video-cor > iframe {
     max-width: 7000px;
 }
 
+
+
 /* Resto da página */
+
+#p-center{
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    justify-content: center ;
+    flex-direction: column;
+    color: #202020;
+    padding: 30px;
+}
 
 #integrantes {
     display: flex;
